@@ -1,0 +1,8 @@
+name: Draw 
+main: com.mcbbs.zjxx.Draw
+version: 1.0 
+description: This is zjxx's first plugin which is released on MCBBS.
+commands:
+  draw:
+    description: "This is the command which is used to draw."
+    usage: /<command>
